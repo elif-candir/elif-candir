@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elif-candir
-- 👀 I’m interested in Mathematical Analysis, Software Development, Cooking and Gaming
-- 🌱 I’m currently learning MS Office Programs, CRM and JavaScript 
+- 👀 I’m interested in Mathematics, Data Analysis, Cooking and Gaming
+- 🌱 I’m currently learning MS Office Programs and SQL
 - 📫 How to reach me https://www.linkedin.com/in/elifcandir/
 
 <!---
