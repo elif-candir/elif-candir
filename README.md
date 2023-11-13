@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elif-candir
 - 👀 I’m interested in Mathematics, Cooking and Gaming
-- 🌱 I’m currently learning Javascript and SQL
+- 🌱 I’m a 4th grade student in Mathematics and a 2nd grade student in Management Information Systems student at Istanbul University
 - 📫 How to reach me https://www.linkedin.com/in/elifcandir/
 
 <!---
